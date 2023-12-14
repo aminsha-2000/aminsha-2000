@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is my First repository
+Author - Aminsha Shaik
+Suppoters - uttam,uday
 
 <!--
 **aminsha-2000/aminsha-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
